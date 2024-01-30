@@ -1,0 +1,6 @@
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+    font-weight: bold;
+    background-color: #007bff !important;
+    border-radius: 0.5rem;
+}
